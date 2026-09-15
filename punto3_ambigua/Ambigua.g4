@@ -5,7 +5,7 @@ grammar Ambigua;
 //   E -> E * E
 //   E -> num
 //
-// ANTLR 4 la acepta sin quejarse y no avisa que es ambigua. Al reescribir la
+// ANTLR 4 la acepta y no avisa que es ambigua. Al reescribir la
 // recursion por la izquierda le da mas precedencia a la alternativa que
 // aparece primero, asi que aqui '+' queda por encima de '*'.
 
