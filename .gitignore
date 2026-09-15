@@ -1,0 +1,9 @@
+# Lo que genera ANTLR y la compilacion (se vuelve a crear con construir.bat)
+gen/
+build/
+*.interp
+*.tokens
+punto1_expresiones/ExprLexer.py
+punto1_expresiones/ExprParser.py
+punto1_expresiones/ExprListener.py
+__pycache__/
