@@ -1,5 +1,7 @@
 # Análisis sintáctico con ANTLR
 
+Julian Beltran - Santiago Ortegon - Juan Orjuela
+
 Esta es la práctica del tema de análisis sintáctico (presentación `04_LP`). Son tres puntos:
 
 | Carpeta | Qué hace | Lenguaje |
